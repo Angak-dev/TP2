@@ -1,0 +1,31 @@
+/*!
+Auteur: Mathieu Bourassa
+Description: Gabarit de base permettant d'explorer Sass et différents techniques CSS
+Version: 1.0.0
+License: GNU General Public License v2 or later
+*/
+
+/**
+Liste des fichiers scss importés
+- entete
+- extend
+- footer
+- mixins
+- navigation
+- tyography
+- variable
+*/
+
+/* ----------------------------------------
+# entete
+---------------------------------------- */ 
+@import "_entete.scss";
+@import "_extend.scss";
+@import "_footer.scss";
+@import "_mixins.scss";
+@import "_navigation.scss";
+@import "_typography.scss";
+@import "_variable.scss";
+
+
+
